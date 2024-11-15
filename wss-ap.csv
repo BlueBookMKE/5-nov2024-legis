@@ -1,0 +1,28 @@
+district,race_status,candidate,party,incumbent,total_votes,percent_votes
+District 2,Contested,Eric Wimberger,R,TRUE,67978,64.5
+District 2,Contested,Kelly Peterson,D,FALSE,37425,35.5
+District 4,Unopposed,Dora Drake,D,TRUE,NA,NA
+District 6,Unopposed,LaTonya Johnson,D,TRUE,NA,NA
+District 8,Contested,Jodi Habush Sinykin,D,FALSE,60471,50.8
+District 8,Contested,Duey Stroebel,R,TRUE,58683,49.2
+District 10,Contested,Rob Stafsholt,R,TRUE,66646,62.4
+District 10,Contested,Paul Hambleton,D,FALSE,40157,37.6
+District 12,Contested,Mary Felzkowski,R,TRUE,74142,67.5
+District 12,Contested,Andi Rich,D,FALSE,35619,32.5
+District 14,Contested,Sarah Keyeski,D,FALSE,52473,51.1
+District 14,Contested,Joan Ballweg,R,TRUE,50132,48.9
+District 16,Unopposed,Melissa Ratcliff,D,FALSE,NA,NA
+District 18,Contested,Kristin Alfheim,D,FALSE,46878,53.3
+District 18,Contested,Anthony Phillips,R,FALSE,41075,46.7
+District 20,Contested,Daniel Feyen,R,TRUE,73552,70.1
+District 20,Contested,Michael Rapp,D,FALSE,31433,29.9
+District 22,Unopposed,Robert Wirch,D,TRUE,NA,NA
+District 24,Contested,Patrick Testin,R,TRUE,57519,58.7
+District 24,Contested,Collin McNamara,D,FALSE,40497,41.3
+District 26,Unopposed,Kelda Roys,D,TRUE,NA,NA
+District 28,Contested,Julian Bradley,R,TRUE,70527,63.1
+District 28,Contested,Megan Lach,D,FALSE,41160,36.9
+District 30,Contested,Jamie Wall,D,FALSE,46235,52.5
+District 30,Contested,Jim Rafter,R,FALSE,41768,47.5
+District 32,Contested,Brad Pfaff,D,TRUE,52695,52.4
+District 32,Contested,Stacey Klein,R,FALSE,47906,47.6
